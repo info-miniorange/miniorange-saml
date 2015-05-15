@@ -1,5 +1,6 @@
 
-----------miniOrange Joomla SSO Plugin----------
+miniOrange Joomla SSO Plugin
+============================
 
 Overview
 --------
