@@ -58,6 +58,6 @@ The SAML login link can be added to Joomla main login form as follows:
  * Now select default_login.php under html->com_users->login.
  * Search for the JLOGIN button in default_login.php.
  * After this button, add the SAML Login link by adding code:
- ```
+
  <a href="http://<path-to-joomla-site>/plugins/authentication/miniorangesaml/miniorangesaml.php" style="padding-left:20px;">SAML Login</a>
- ```
+
